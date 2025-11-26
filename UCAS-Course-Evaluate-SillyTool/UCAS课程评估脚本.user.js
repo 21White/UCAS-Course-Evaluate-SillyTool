@@ -5,7 +5,7 @@
 // @description  自动化填写课程和教师评估问卷 - 智能识别文本框 + 验证码自动识别
 // @author       LilanChen
 // @icon         https://www.urongda.com/_next/image?url=%2Flogos%2Fnormal%2Fmedium%2Funiversity-of-chinese-academy-of-sciences-logo-1024px.png&w=640&q=75
-// @match        *://xkcts.ucas.ac.cn:*/evaluate/*
+// @match        *://*.ucas.ac.cn:*/evaluate/*
 // @require      https://cdn.jsdelivr.net/npm/tesseract.js@4/dist/tesseract.min.js
 // @grant        none
 // @license      MIT
