@@ -1,6 +1,7 @@
 # 国科大课程评价工具-懒人版
-
-![image.png](/assets/SillyTool.png)
+<p align="center">
+  <img src="/assets/SillyTool.png" alt="image" width="400">
+</p>
 
 > **脚本功能：自动化填写课程和教师评估问卷 - 智能识别文本框 + 验证码自动识别**
 > 
@@ -13,6 +14,10 @@
 **25/11/26更新**
 
 **狡猾的教务处把课评网址子域名改了，导致之前的插件不能用了，目前已更新，请大家放心使用**
+
+<p align="center">
+  <img src="/assets/fox.jpg" alt="image" width="300">
+</p>
 
 # 步骤一
 
