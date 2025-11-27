@@ -38,35 +38,35 @@
 这里无论是Edge还是Chrome浏览器都大差不差，我以Edge浏览器为例
 
 <p align="center">
-  <img src="/assets/image.png" alt="image" width="300">
+  <img src="/assets/image.png" alt="image" width="800">
 </p>
 
 打开一个新的页面，点击扩展 - 获取 Microsoft Edge 扩展
 
 <p align="center">
-  <img src="/assets/image%201.png" alt="image" width="300">
+  <img src="/assets/image%201.png" alt="image" width="500">
 </p>
 
 搜索TamperMonkey，点击第一个绿色的软件，安装即可（我装过了）
 
 <p align="center">
-  <img src="/assets/image%202.png" alt="image" width="300">
+  <img src="/assets/image%202.png" alt="image" width="800">
 </p>
 
 <p align="center">
-  <img src="/assets/image%203.png" alt="image" width="300">
+  <img src="/assets/image%203.png" alt="image" width="800">
 </p>
 
 接着，点击扩展 - 篡改猴 旁边的··· - 管理扩展
 
 <p align="center">
-  <img src="/assets/image%204.png" alt="image" width="300">
+  <img src="/assets/image%204.png" alt="image" width="400">
 </p>
 
 一定要确认开发人员模式被打开，否则脚本没办法正常运行
 
 <p align="center">
-  <img src="/assets/image%205.png" alt="image" width="300">
+  <img src="/assets/image%205.png" alt="image" width="400">
 </p>
 
 这一步就到这里结束了
@@ -90,25 +90,25 @@
 页面长这样：
 
 <p align="center">
-  <img src="/assets/image%206.png" alt="image" width="300">
+  <img src="/assets/image%206.png" alt="image" width="400">
 </p>
 
 接着，点击绿色按钮Code，并点击Download ZIP
 
 <p align="center">
-  <img src="/assets/image%207.png" alt="image" width="300">
+  <img src="/assets/image%207.png" alt="image" width="400">
 </p>
 
 然后你就下载了一个压缩包.zip文件
 
 <p align="center">
-  <img src="/assets/image%208.png" alt="image" width="300">
+  <img src="/assets/image%208.png" alt="image" width="400">
 </p>
 
 解压这个文件，得到
 
 <p align="center">
-  <img src="/assets/image%209.png" alt="image" width="300">
+  <img src="/assets/image%209.png" alt="image" width="400">
 </p>
 
 ok，这一步就先到这里
@@ -116,7 +116,7 @@ ok，这一步就先到这里
 - [ ]  **这里麻烦大家帮我点一个Star！这对我很重要！谢谢！**
 
 <p align="center">
-  <img src="/assets/image%2010.png" alt="image" width="300">
+  <img src="/assets/image%2010.png" alt="image" width="800">
 </p>
 
 **如果你没有梯子，也可以选择国内镜像**
@@ -132,7 +132,7 @@ https://gitee.com/ziyangChen21/UCAS-Course-Evaluate-SillyTool
 https://home.greasyfork.org.cn/zh-hans
 
 <p align="center">
-  <img src="/assets/image%2011.png" alt="image" width="300">
+  <img src="/assets/image%2011.png" alt="image" width="600">
 </p>
 
 搜索：**UCAS课程自动评估脚本**
@@ -140,19 +140,19 @@ https://home.greasyfork.org.cn/zh-hans
 第一个作者为LilanChen的就是~
 
 <p align="center">
-  <img src="/assets/image%2012.png" alt="image" width="300">
+  <img src="/assets/image%2012.png" alt="image" width="600">
 </p>
 
 点击，安装此脚本，即可跳转至油猴（TamperMonkey）安装页面
 
 <p align="center">
-  <img src="/assets/image%2013.png" alt="image" width="300">
+  <img src="/assets/image%2013.png" alt="image" width="600">
 </p>
 
 点击安装即可（因为我装过了所以是重新安装）
 
 <p align="center">
-  <img src="/assets/image%2014.png" alt="image" width="300">
+  <img src="/assets/image%2014.png" alt="image" width="600">
 </p>
 
 ---
@@ -166,21 +166,21 @@ https://home.greasyfork.org.cn/zh-hans
 点击扩展 - 篡改猴 - 管理面板
 
 <p align="center">
-  <img src="/assets/image%2015.png" alt="image" width="300">
+  <img src="/assets/image%2015.png" alt="image" width="400">
 </p>
 
 <p align="center">
-  <img src="/assets/image%2016.png" alt="image" width="300">
+  <img src="/assets/image%2016.png" alt="image" width="400">
 </p>
 
 点击 实用工具 - 导入（选择文件）- 选择解压后文件夹中的.js脚本 - 安装
 
 <p align="center">
-  <img src="/assets/image%2017.png" alt="image" width="300">
+  <img src="/assets/image%2017.png" alt="image" width="600">
 </p>
 
 <p align="center">
-  <img src="/assets/image%2018.png" alt="image" width="300">
+  <img src="/assets/image%2018.png" alt="image" width="400">
 </p>
 
 这样我们所有的准备工作就全部完成了，下面让我们打开SEP网站开始实操！
@@ -190,7 +190,7 @@ https://home.greasyfork.org.cn/zh-hans
 打开国科大SEP网站，找到课评板块
 
 <p align="center">
-  <img src="/assets/image%2019.png" alt="image" width="300">
+  <img src="/assets/image%2019.png" alt="image" width="600">
 </p>
 
 点击评估，进入评估页面
@@ -202,13 +202,13 @@ https://home.greasyfork.org.cn/zh-hans
 如果发现页面右上角没有这三个按钮，请回到步骤二，看看有没有打开油猴的**开发人员模式**！！！
 
 <p align="center">
-  <img src="/assets/image%2020.png" alt="image" width="300">
+  <img src="/assets/image%2020.png" alt="image" width="400">
 </p>
 
 好的，现在可以点击自动填写评估了，稍微等一下就能显示填写成功，失败也不要怕，刷新一下就行，
 
 <p align="center">
-  <img src="/assets/image%2021.png" alt="image" width="300">
+  <img src="/assets/image%2021.png" alt="image" width="400">
 </p>
 
 # 步骤六
@@ -218,7 +218,7 @@ https://home.greasyfork.org.cn/zh-hans
 由于识别验证码部分没有调用模型识别，仅为图像处理，因此准确率不高，你可以选择**刷新验证码重新点击识别 或 自己输入（笑）**
 
 <p align="center">
-  <img src="/assets/image%2022.png" alt="image" width="300">
+  <img src="/assets/image%2022.png" alt="image" width="400">
 </p>
 
 点击保存，这样就大功告成了！
@@ -228,5 +228,5 @@ https://home.greasyfork.org.cn/zh-hans
 # **麻烦大家帮我点一个Star！这对我很重要！谢谢！**
 
 <p align="center">
-  <img src="/assets/image%2010.png" alt="image" width="500">
+  <img src="/assets/image%2010.png" alt="image" width="1000">
 </p>
