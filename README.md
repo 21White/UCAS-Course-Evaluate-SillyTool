@@ -1,3 +1,10 @@
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=21White/UCAS-Course-Evaluate-SillyTool&type=date&legend=top-left)](https://www.star-history.com/#21White/UCAS-Course-Evaluate-SillyTool&type=date&legend=top-left)
+
+---
+
 # 国科大课程评价工具-懒人版
 <p align="center">
   <img src="/assets/SillyTool.png" alt="image" width="400">
