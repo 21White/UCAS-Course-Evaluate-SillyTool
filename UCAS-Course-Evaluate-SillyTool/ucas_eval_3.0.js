@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UCAS课程自动评估脚本
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      3.0
 // @description  自动化填写课程和教师评估问卷
 // @author       LilanChen
 // @icon         https://www.urongda.com/_next/image?url=%2Flogos%2Fnormal%2Fmedium%2Funiversity-of-chinese-academy-of-sciences-logo-1024px.png&w=640&q=75
