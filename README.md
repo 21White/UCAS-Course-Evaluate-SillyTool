@@ -92,6 +92,13 @@
   <img src="/assets/image%205.png" alt="image" width="400">
 </p>
 
+**⚠️ 新版浏览器（Chrome 138+ / 新版 Edge）还需要额外一步：** 在扩展管理页找到 篡改猴 - 详细信息，勾选 **「允许用户脚本」（Allow User Scripts）**，并把站点访问权限设为「在所有站点上」。只开开发人员模式、不勾这个选项，右上角是不会出现按钮的（浏览器自动更新后"突然不能用"一般也是这个原因）。
+
+**Mac 用户：**
+- Chrome / Edge：步骤和 Windows 完全一样，记得勾选上面的「允许用户脚本」
+- Safari：可以安装 App Store 里免费的 **Userscripts** 扩展，或付费版 Tampermonkey，然后在 Safari 设置 - 扩展 中启用它，并允许其在 `ucas.ac.cn` 上运行；请使用 2.1 及以上版本的脚本（旧版本的网址匹配规则 Safari 无法识别）
+- 文中提到的 F12 在 Mac 上对应 ⌘+⌥+I
+
 这一步就到这里结束了
 
 ---
@@ -220,7 +227,7 @@ https://home.greasyfork.org.cn/zh-hans
 
 修改完记得**保存设置，**如果卡bug了请点击**重置默认**
 
-如果发现页面右上角没有这些按钮，请回到步骤二，看看有没有打开油猴的**开发人员模式**！！！
+如果发现页面右上角没有这些按钮，请回到步骤二，看看有没有打开油猴的**开发人员模式**，以及有没有勾选**允许用户脚本**！！！
 
 <p align="center">
   <img src="/assets/2ge_image_2.jpg" alt="image" width="600">

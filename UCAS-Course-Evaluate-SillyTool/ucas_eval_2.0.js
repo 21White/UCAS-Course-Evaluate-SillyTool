@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         UCAS课程自动评估脚本
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  自动化填写课程和教师评估问卷
 // @author       LilanChen
 // @icon         https://www.urongda.com/_next/image?url=%2Flogos%2Fnormal%2Fmedium%2Funiversity-of-chinese-academy-of-sciences-logo-1024px.png&w=640&q=75
+// @match        *://*.ucas.ac.cn/evaluate/*
 // @match        *://*.ucas.ac.cn:*/evaluate/*
-// @require      https://cdn.jsdelivr.net/npm/tesseract.js@4/dist/tesseract.min.js
 // @grant        none
 // @license      MIT
 // ==/UserScript==
@@ -419,7 +419,7 @@
             const checkboxes = document.querySelectorAll('input[type="checkbox"]');
             console.log(`☑️ 找到 ${checkboxes.length} 个多选框`);
 
-            alert('📊 调试信息已输出到控制台！\n请按 F12 打开开发者工具查看 Console 标签页。');
+            alert('📊 调试信息已输出到控制台！\n请按 F12（Mac 上为 ⌘+⌥+I）打开开发者工具查看 Console 标签页。');
         }
     });
 
