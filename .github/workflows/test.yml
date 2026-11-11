@@ -1,0 +1,19 @@
+name: Userscript checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: node --check UCAS-Course-Evaluate-SillyTool/ucas_eval_3.0.js
+      - run: npm test
+      - run: git diff --check

@@ -1,0 +1,6 @@
+{
+  "name": "ucas-evaluation-userscript-tests",
+  "private": true,
+  "scripts": { "test": "node tests/submission.test.cjs" },
+  "devDependencies": { "jsdom": "29.1.1" }
+}
